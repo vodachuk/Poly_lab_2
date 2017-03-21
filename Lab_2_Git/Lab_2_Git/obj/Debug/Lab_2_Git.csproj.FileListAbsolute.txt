@@ -1,0 +1,2 @@
+E:\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe.config
+D:\git_lab\Poly_lab_2\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe.config
