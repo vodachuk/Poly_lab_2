@@ -6,6 +6,7 @@ public class CreditCard
     private DateTime date;
     private int CVV;
     private string currency;
+    private unsigned short int PIN;
 
 	public CreditCard()
 	{
@@ -18,4 +19,9 @@ public class CreditCard
         this.CVV = CVV;
         this.currency = currency;
     }
+
+	public ChangePin(unsigned short int PIN)
+	{
+		this.PIN = PIN;
+	}
 }
