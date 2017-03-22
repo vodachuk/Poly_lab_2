@@ -14,6 +14,7 @@ namespace Lab_2_Git
     {
         static void Main(string[] args)
         {
+		BusinessCard bs = new BusinessCard();
         }
     }
 }
