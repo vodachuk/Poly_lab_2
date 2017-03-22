@@ -10,14 +10,7 @@ namespace Lab_2_Git
     {
         static void Main(string[] args)
         {
-            Money m = new Money(134);
-            m.GetInformation();
-
-            CreditCard myCard = new CreditCard("1234 5678 4567 4231", new DateTime(2017, 8, 21), 521, "USD");
-            myCard.ChangePin(5626);
-
-            BusinessCard bs = new BusinessCard();
-           
+         
         }
     }
 }
