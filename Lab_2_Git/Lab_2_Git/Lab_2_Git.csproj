@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="BusinessCard.cs" />
     <Compile Include="Class_Money.cs" />
+=======
+>>>>>>> chaban
     <Compile Include="CreditCard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

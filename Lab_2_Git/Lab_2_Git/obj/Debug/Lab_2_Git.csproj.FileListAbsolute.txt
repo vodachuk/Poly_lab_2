@@ -1,8 +1,12 @@
 E:\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe.config
 D:\git_lab\Poly_lab_2\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe.config
+<<<<<<< HEAD
 D:\New folder\Poly_lab_2\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe.config
 D:\New folder\Poly_lab_2\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe
 D:\New folder\Poly_lab_2\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.pdb
 D:\New folder\Poly_lab_2\Lab_2_Git\Lab_2_Git\obj\Debug\Lab_2_Git.csprojResolveAssemblyReference.cache
 D:\New folder\Poly_lab_2\Lab_2_Git\Lab_2_Git\obj\Debug\Lab_2_Git.exe
 D:\New folder\Poly_lab_2\Lab_2_Git\Lab_2_Git\obj\Debug\Lab_2_Git.pdb
+=======
+D:\New folder\Lab_2_Git\Lab_2_Git\bin\Debug\Lab_2_Git.exe.config
+>>>>>>> chaban
