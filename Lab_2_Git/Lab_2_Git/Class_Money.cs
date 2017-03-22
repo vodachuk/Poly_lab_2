@@ -5,15 +5,15 @@
 /// </summary>
 public class Money
 {
-    public int momey;
-    public sting currency;
+    public int money;
+    public string currency;
 
 	public Money(int money)
 	{
         this.money = money;
 	}
 
-    void GetInformation()
+    public void GetInformation()
     {
         Console.WriteLine("Youn have money = {0}", money);
     }
