@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace Lab_2_Git
 {
+    
     class Purse
-    {
- 
-    }
-    class Program
     {
         static void Main(string[] args)
         {
+            Money m = new Money(123);
+            m.GetInformation();
         }
     }
 }
